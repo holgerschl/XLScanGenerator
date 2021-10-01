@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XLScanGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\holge\\source\\repos\\XLScanGenerator\\syncAXISConfig1-6.xml C:\\Users\\holge\\source\\repos\\XLScanGenerator\\knot.wp C:\\Users\\holge\\source\\repos\\XLScanGenerator\\newmodule.slm"
+    }
+  }
+}
